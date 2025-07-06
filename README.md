@@ -15,7 +15,6 @@ I'm a **Frontend Developer** passionate about building **responsive, user-friend
 - 🔍 **Advanced JavaScript & Algorithms** to enhance my problem-solving skills  
 
 ### 🤝 Let's Connect  
-- 💼 **Portfolio**: [Coming Soon]  
 - 🔗 **LinkedIn**: [linkedin.com/in/shadenkhaled](#)  
 - 📩 **Email**: shaden.khaled.id@gmail.com  
 
