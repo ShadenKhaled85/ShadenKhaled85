@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaden Khaled  
 
-### 🚀 Frontend Developer | Angular.js | JavaScript | Web Performance  
+### 🚀 FullStack Developer | Angular.js | .NET  
 
 I'm a **Frontend Developer** passionate about building **responsive, user-friendly web applications**. I specialize in **React.js, JavaScript, and modern web development** technologies.  
 
