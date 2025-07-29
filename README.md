@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Shaden Khaled  
-
 ### 🚀 FullStack Developer | Angular.js | .NET  
 
 I'm a **FullStack Developer** passionate about building **responsive, user-friendly web applications**. I specialize in **Angular.js** technology.  
