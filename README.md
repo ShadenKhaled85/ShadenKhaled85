@@ -38,6 +38,10 @@
   <a href="https://www.linkedin.com/in/shaden-khaled" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35"/>
   </a>
+    &nbsp;
+  <a href="mailto:shaden.khaled.id@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="32"/>
+  </a>
 </p>
 
 ---
