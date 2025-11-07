@@ -17,13 +17,13 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="45"/>
   </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40"/>
   </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer">
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/shaden-khaled" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35"/>
   </a>
-    &nbsp;
+  &nbsp;
   <a href="mailto:shaden.khaled.id@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="32"/>
   </a>
@@ -48,8 +48,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadenKhaled85&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=default" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadenKhaled85&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=default&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadenKhaled85&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadenKhaled85&show_icons=true&locale=en&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadenKhaled85&theme=default" alt="GitHub Streak" />
 </p>
