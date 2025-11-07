@@ -1,9 +1,5 @@
 <h1 align="center">💻 Full Stack Developer</h1>
 
-<p align="center">
-  Passionate about building scalable web applications with modern technologies and best practices.
-</p>
-
 ---
 
 <h3 align="left">🛠️ Technical Stack</h3>
@@ -40,14 +36,14 @@
 
 ---
 
-<h3 align="left">📬 Let's Connect</h3>
-
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shaden-khaled" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35"/>
   </a>
+    &nbsp;
   <a href="mailto:shaden.khaled.id@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="32"/>
   </a>
 </p>
 
